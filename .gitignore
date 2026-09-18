@@ -1,0 +1,9 @@
+# checkpoints are released separately upon paper acceptance
+checkpoints/
+features/
+data/
+__pycache__/
+*.pyc
+*.pt
+*.pth
+.DS_Store
